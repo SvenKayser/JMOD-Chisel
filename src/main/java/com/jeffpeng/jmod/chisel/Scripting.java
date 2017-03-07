@@ -4,7 +4,6 @@ import com.jeffpeng.jmod.JMODRepresentation;
 import com.jeffpeng.jmod.chisel.actions.AddCarvingGroup;
 import com.jeffpeng.jmod.chisel.actions.AddCarvingVariation;
 import com.jeffpeng.jmod.primitives.ModScriptObject;
-import com.jeffpeng.jmod.primitives.OwnedObject;
 
 public class Scripting extends ModScriptObject {
 	public Scripting(JMODRepresentation owner) {
